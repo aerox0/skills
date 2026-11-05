@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend Efficiency"
+  short_description: "Efficient algorithms, data access, and bounded work"
+  default_prompt: "Use $backend-efficiency to implement or review this backend change for algorithmic complexity, repeated work, and resource bounds."
