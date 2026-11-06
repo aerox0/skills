@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data and Behavior"
+  short_description: "Model data, rules, and lifecycles clearly"
+  default_prompt: "Use $data-and-behavior to design or review this change for clear data models, shared rules, and explicit lifecycle behavior."
