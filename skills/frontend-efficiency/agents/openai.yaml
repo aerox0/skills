@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Efficiency"
+  short_description: "Responsive interfaces with efficient rendering and CSS"
+  default_prompt: "Use $frontend-efficiency to implement or review this frontend change for repeated work, rendering cost, and responsive interactions."
